@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10171A,50:5AA79E,100:E3A94A&height=220&section=header&text=Yashavanthagowda%20R%20G&fontSize=44&fontColor=EDEFE7&fontAlignY=38&desc=Data%20Analyst%20%C2%B7%20Full%20Stack%20Developer%20%C2%B7%20AI%2FML%20Engineer&descSize=18&descAlignY=60&animation=fadeIn" alt="header" width="100%"/>
 
